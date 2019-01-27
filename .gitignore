@@ -202,3 +202,8 @@ dmypy.json
 .venv/
 
 # End of https://www.gitignore.io/api/python,jetbrains
+
+# Subfolder JetBrains projects for individual exercises
+*/.idea
+*/*/.idea
+
